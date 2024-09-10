@@ -1,8 +1,4 @@
-Here's the updated `README.md` file that includes detailed instructions for setting and getting keys with CPU and GPU modes, along with instructions on how to run the benchmarks:
-
----
-
-# High-Performance Cache Management System with Apache Arrow
+# High-Performance Cache Management System with Apache Arrow - https://blog.lowlevelforest.com/
 
 This project implements a high-performance key-value cache system in Go, utilizing **Apache Arrow** for efficient memory handling and supporting large-scale connections. The system supports caching data with a **Time To Live (TTL)** mechanism to automatically expire stale items. Additionally, the system can operate in **CPU** and **GPU** modes for setting and getting cache entries.
 
@@ -159,7 +155,3 @@ Time taken to Get 1000000 keys in GPU mode: 1m15s
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-This `README.md` provides detailed instructions for setting and getting keys with both CPU and GPU modes, along with guidance on running and interpreting benchmarks. Let me know if you need further adjustments or additional information!
